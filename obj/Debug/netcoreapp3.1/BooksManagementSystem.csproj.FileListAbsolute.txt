@@ -1,0 +1,13 @@
+D:\baitap\BooksManagementSystem\bin\Debug\netcoreapp3.1\BooksManagementSystem.exe
+D:\baitap\BooksManagementSystem\bin\Debug\netcoreapp3.1\BooksManagementSystem.deps.json
+D:\baitap\BooksManagementSystem\bin\Debug\netcoreapp3.1\BooksManagementSystem.runtimeconfig.json
+D:\baitap\BooksManagementSystem\bin\Debug\netcoreapp3.1\BooksManagementSystem.runtimeconfig.dev.json
+D:\baitap\BooksManagementSystem\bin\Debug\netcoreapp3.1\BooksManagementSystem.dll
+D:\baitap\BooksManagementSystem\bin\Debug\netcoreapp3.1\BooksManagementSystem.pdb
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.csprojAssemblyReference.cache
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.AssemblyInfoInputs.cache
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.AssemblyInfo.cs
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.csproj.CoreCompileInputs.cache
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.dll
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.pdb
+D:\baitap\BooksManagementSystem\obj\Debug\netcoreapp3.1\BooksManagementSystem.genruntimeconfig.cache
